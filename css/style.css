@@ -1,6 +1,6 @@
 body {
     background: radial-gradient(#dbffe1, #fff) fixed;
-    color: #0e2805;
+    color: #f5e2cc;
   }
   h1{
     font-size: 24px;
@@ -12,9 +12,9 @@ body {
     font-weight: bold;
   }
   header {
-    background: #c3f3cb;
-    width: 100%;
-    padding: 17px 0;
+    background: #f5e2cc;
+   
+    
     text-align: center;
     position: sticky;
     top: 0;
@@ -103,7 +103,7 @@ body {
   }
   
   body footer {
-    background: pink;
+    background: #f5e2cc;
     clear: both;
     text-align: center;
     padding: 24px 0;
@@ -114,3 +114,23 @@ body {
     box-sizing: border-box;
     float: left;
     width: 50%;
+  }
+  img#cart {
+    width: 43px;
+    vertical-align: middle;
+}
+body {
+  background: radial-gradient(#dbffe1, #fff) fixed;
+  color: #0e2805;
+  background-image: url(https://image.freepik.com/free-photo/abstract-blur-bokeh-defocused-shopping-mall-interior-department-store_1203-9462.jpg);
+  background-repeat: no-repeat;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+main ul, main li {
+  
+ 
+  border: 1px solid green;
+}
